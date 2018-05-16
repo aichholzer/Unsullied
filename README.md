@@ -1,4 +1,6 @@
 # UNSULLIED
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/aichholzer/Unsullied.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/aichholzer/Unsullied.svg?branch=master)](https://travis-ci.org/aichholzer/Unsullied)
 [![Dependency status](https://gemnasium.com/badges/github.com/aichholzer/Unsullied.svg)](https://gemnasium.com/github.com/aichholzer/Unsullied)
 [![Downloads](https://img.shields.io/npm/dt/unsullied.svg)](https://www.npmjs.com/package/unsullied)
